@@ -6,11 +6,11 @@
 
 **Update**: the directory **Notebook** contains a tutorial on key results of the paper.
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nprost/supervised_missing/master?filepath=Notebook%2FA%20toy%20regression%20model%20with%20missing%20values.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dirty-data/supervised_missing/master?filepath=Notebook%2FA%20toy%20regression%20model%20with%20missing%20values.ipynb)
 
 Access the Notebok via Binder at the following URL 
 
-https://mybinder.org/v2/gh/nprost/supervised_missing/master?filepath=Notebook%2FA%20toy%20regression%20model%20with%20missing%20values.ipynb
+https://mybinder.org/v2/gh/dirty-data/supervised_missing/master?filepath=Notebook%2FA%20toy%20regression%20model%20with%20missing%20values.ipynb
 
 **Notes**
 Without Binder, install the required Python libraries via
